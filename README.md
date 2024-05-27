@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hello! I'm Abdul Qadeer from Pakistan. I do backend through django framwork and also do flutter app development.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqtech01)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aqtech01/aqtech01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
