@@ -1,18 +1,13 @@
-## Hi there 👋
-Hello! I'm Abdul Qadeer from Pakistan. I do backend through django framwork and also do flutter app development.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqtech01)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, my name is Abdul Qadeer
+#### I am Mobile App Developer
+![I am Mobile App Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**aqtech01/aqtech01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: Flutter / Dart/Python/Django / HTML / CSS/Js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
