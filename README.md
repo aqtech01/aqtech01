@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Abdul Qadeer | Bio Banner](banner-transparent.png)
 
@@ -146,6 +146,8 @@ No activity tracked
 <br />
 
 <br />
+
+-->
 
 <h2>📫 How to reach me:</h2>
 <hr />
